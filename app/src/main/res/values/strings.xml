@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project</string>
+
+    <string name="title_main">Курсы валют</string>
+    <string name="loading">Загрузка</string>
+    <string name="error">Ошибка</string>
+</resources>
